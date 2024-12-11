@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"mimo-todo-app","appId":"1:399559678548:android:9a298008758cc69a4b2bc1","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"mimo-todo-app","configurations":{"android":"1:399559678548:android:9a298008758cc69a4b2bc1","ios":"1:399559678548:ios:1484daf6f3334d3d4b2bc1"}}}}}}
